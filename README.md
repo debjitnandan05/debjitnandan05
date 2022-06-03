@@ -19,9 +19,11 @@
 
 <!-- ------ Contact --------- -->
 <h3 align="center">Want to connect with me 😍?</h3>
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/debjit-nandan-467411203/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
 <a target="_blank" href="https://www.facebook.com/debjit.nandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
 <a target="_blank" href="https://www.instagram.com/debjitnandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
 <a target="_blank" href="https://twitter.com/DebjitNandan"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
+  </p>
 
 
