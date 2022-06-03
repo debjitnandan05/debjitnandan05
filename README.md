@@ -19,20 +19,9 @@
 
 <!-- ------ Contact --------- -->
 <h3 align="center">Want to connect with me 😍?</h3>
-
-<!-- linkedlist -->
 <a target="_blank" href="https://www.linkedin.com/in/debjit-nandan-467411203/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
-
-<!-- facebook -->
 <a target="_blank" href="https://www.facebook.com/debjit.nandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
-
-<!-- instagram -->
 <a target="_blank" href="https://www.instagram.com/debjitnandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-
-<!-- codechef -->
-<!-- <a target="_blank" href="https://www.codechef.com/users/s_agnik1511"><img width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a> -->
-
-<!-- twitter -->
 <a target="_blank" href="https://twitter.com/DebjitNandan"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
 
 
