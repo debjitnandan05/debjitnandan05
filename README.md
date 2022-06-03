@@ -16,12 +16,23 @@
 
 - ⚡ Fun fact: I want to like play guitar
 
-<h3 align="left">Want to connect with me 😍?</h3>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://wr2435@it.jgec.ac.in)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-nandan-467411203/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debjitnandan)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/debjit.nandan)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DebjitNandan)
+<!-- ------ Contact --------- -->
+<h3 align="center">Want to connect with me 😍?</h3>
+
+<!-- linkedlist -->
+<a target="_blank" href="https://www.linkedin.com/in/debjit-nandan-467411203/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
+
+<!-- facebook -->
+<a target="_blank" href="https://www.facebook.com/debjit.nandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
+
+<!-- instagram -->
+<a target="_blank" href="https://www.instagram.com/debjitnandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+
+<!-- codechef -->
+<!-- <a target="_blank" href="https://www.codechef.com/users/s_agnik1511"><img width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a> -->
+
+<!-- twitter -->
+<a target="_blank" href="https://twitter.com/DebjitNandan"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
 
 
