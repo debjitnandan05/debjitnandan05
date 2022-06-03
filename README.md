@@ -1,9 +1,8 @@
-<h1 align="center">Hi geeks, I'm Debjit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Namaste World🙏, I'm Debjit <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">An aspiring MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimreja&label=Profile%20views&color=2b9348&style=for-the-badge" alt="wasimreja" /> </p>
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350">
+<img align="right" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="350">
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Electronics and Communication Engineering
 
@@ -17,7 +16,7 @@
 
 - ⚡ Fun fact: I want to like play guitar
 
-<h3 align="left">Want to connect with me ?</h3>
+<h3 align="left">Want to connect with me 😍?</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://wr2435@it.jgec.ac.in)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-nandan-467411203/)
