@@ -18,7 +18,7 @@
 
 
 <!-- technology i used  -->
-<h3 align="center">My daily used-tech 💻</h3>
+<h3 align="center">My daily used-tech 💻:</h3>
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -44,5 +44,7 @@
 <a target="_blank" href="https://www.instagram.com/debjitnandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
 <a target="_blank" href="https://twitter.com/DebjitNandan"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
   </p>
+  
+<img src="https://camo.githubusercontent.com/2d64c9a95505545799c5bedd6e09b7b43e2fd038c170334678969f0264a30fce/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d736168696c7361686137373733267468656d653d72656163742d6461726b" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=debjitnandan05&amp;theme=react-dark" style="max-width: 100%;">
 
 
