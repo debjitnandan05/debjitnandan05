@@ -17,6 +17,17 @@
 - ⚡ Fun fact: I want to like play guitar
 
 
+<br>
+<!-- ------ Contact --------- -->
+<h3 align="center">Want to connect with me 😍?</h3>
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/debjit-nandan-467411203/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
+<a target="_blank" href="https://www.facebook.com/debjit.nandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
+<a target="_blank" href="https://www.instagram.com/debjitnandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+<a target="_blank" href="https://twitter.com/DebjitNandan"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
+  </p>
+
+
 <!-- technology i used  -->
 <h3 align="center">My daily used-tech 💻:</h3>
 <p align="center"> 
@@ -33,18 +44,19 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href=" https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/> </a>  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a> 
-  
+ 
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjitnandan05&layout=compact&theme=react&count_private=false" />
+</p>
 
-
-<!-- ------ Contact --------- -->
-<h3 align="center">Want to connect with me 😍?</h3>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/debjit-nandan-467411203/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
-<a target="_blank" href="https://www.facebook.com/debjit.nandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
-<a target="_blank" href="https://www.instagram.com/debjitnandan/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-<a target="_blank" href="https://twitter.com/DebjitNandan"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
-  </p>
-  
-[![Debjit's github activity graph](https://activity-graph.herokuapp.com/graph?username=debjitnandan05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <img src="https://github-readme-stats.vercel.app/api?username=debjitnandan05&count_private=true&show_icons=true&theme=radical" />
+</p>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=debjitnandan05&theme=vision-friendly-dark" />
+</p>
+
+<!-- Activity graph -->
+[![Debjit's github activity graph](https://activity-graph.herokuapp.com/graph?username=debjitnandan05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
