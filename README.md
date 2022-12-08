@@ -12,7 +12,7 @@
 
 - 🎯 2022 Goals: Contribute more to real-world projects and actively engage with the Open Source community
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Xrerbem0GuDIdT401LLXmyJbMJuCVn-b/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vCbSHh1s8K7XEQOjBGbPHYhc54QQzlnn/view?usp=share_link)
 
 - ⚡ Fun fact: I want to like play guitar
 
