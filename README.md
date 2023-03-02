@@ -1,4 +1,4 @@
-<h1 align="center">Namaste World🙏, I'm Debjit <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Namaste Duniya🙏, I'm Debjit <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">An aspiring MERN Stack Developer</h3>
 
 
@@ -58,5 +58,5 @@
 </p>
 
 <!-- Activity graph -->
-[![Debjit's github activity graph](https://activity-graph.herokuapp.com/graph?username=debjitnandan05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Debjit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debjitnandan05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
