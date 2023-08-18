@@ -6,13 +6,13 @@
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Electronics and Communication Engineering
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **ReactJS Development**
 
 - 🤝 I’m looking to collaborate with other developers and build awesome projects
 
 - 🎯 2023 Goals: Contribute more to real-world projects and actively engage with the Open Source community
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JAKEWbGf-EZfS5ddiJXzGmphlMqRrf_m/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lvz8VtoPtG57gVv8-1YjRNYWGpvOLo9U/view?usp=drive_link)
 
 - ⚡ Fun fact: I want to like play guitar
 
@@ -58,5 +58,5 @@
 </p>
 
 <!-- Activity graph -->
-[![Debjit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debjitnandan05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Debjit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debjitnandan05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
